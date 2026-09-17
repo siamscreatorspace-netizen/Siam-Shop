@@ -1,0 +1,6 @@
+{
+  "name": "Siam Shop",
+  "description": "আধুনিক মাল্টি-ভেন্ডর e-commerce মার্কেটপ্লেস - কেনাকাটা, সেলার ম্যানেজমেন্ট এবং অ্যাডমিন ড্যাশবোর্ড।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
